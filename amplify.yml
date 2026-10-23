@@ -1,0 +1,12 @@
+version: 1
+frontend:
+  phases:
+    build:
+      commands:
+        - echo "Static game, no build required"
+  artifacts:
+    baseDirectory: www
+    files:
+      - "**/*"
+  cache:
+    paths: []

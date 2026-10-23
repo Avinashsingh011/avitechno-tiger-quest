@@ -1,0 +1,9 @@
+{
+  "name": "AVITECHNO Tiger Quest",
+  "short_name": "Tiger Quest",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#17100e",
+  "theme_color": "#ff8000",
+  "description": "Offline cartoon tiger platform adventure"
+}

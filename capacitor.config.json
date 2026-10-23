@@ -1,0 +1,8 @@
+{
+  "appId": "in.avitechno.tigerquest",
+  "appName": "AVITECHNO Tiger Quest",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
